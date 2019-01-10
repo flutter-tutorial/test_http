@@ -12,5 +12,7 @@ For help API, view our
 [Manual: TEST HTTP API](https://json.flutter.su/)
 [Flutter Lesson 7. HTTP and HTTPS network requests to Dart and Flutter](https://flutter.su/tutorial/7-HTTP-network-requests)
 
-<img src="assets/screenshot_01.jpg" width="40%">
-<img src="assets/screenshot_02.jpg" width="40%">
+<p float="left">
+<img src="assets/screenshot_01.jpg" width="48%">
+<img src="assets/screenshot_02.jpg" width="48%">
+</p>
